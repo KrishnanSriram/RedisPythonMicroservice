@@ -1,0 +1,36 @@
+03-14 16:36 root         INFO     Convert first.pdf to first.jpeg and pass all information 
+{'policynumber': '2343456', 'studentname': 'krishnan'} 
+to content_persist
+03-14 16:36 root         INFO     Converting file
+03-14 16:36 root         INFO     Proceed to read file ./images/first.jpeg
+03-14 16:36 root         INFO     We need to load this JSON {'policynumber': '2343456', 'studentname': 'krishnan'} into Dictionary
+03-14 16:36 root         INFO     Convert first.pdf to first.jpeg and pass all information 
+{'policynumber': '2343456', 'studentname': 'krishnan'} 
+to content_persist
+03-14 16:36 root         INFO     Converting file
+03-14 16:36 root         INFO     Proceed to read file ./images/first.jpeg
+03-14 16:36 root         INFO     We need to load this JSON {'policynumber': '2343456', 'studentname': 'krishnan'} into Dictionary
+03-14 16:38 root         INFO     Convert first.pdf to first.jpeg and pass all information 
+{'policynumber': '2343456', 'studentname': 'krishnan'} 
+to content_persist
+03-14 16:38 root         INFO     Converting file
+03-14 16:38 root         INFO     Proceed to read file ./images/first.jpeg
+03-14 16:38 root         INFO     We need to load this JSON {'policynumber': '2343456', 'studentname': 'krishnan'} into Dictionary
+03-14 16:38 root         INFO     Convert first.pdf to first.jpeg and pass all information 
+{'policynumber': '2343456', 'studentname': 'krishnan'} 
+to content_persist
+03-14 16:38 root         INFO     Converting file
+03-14 16:38 root         INFO     Proceed to read file ./images/first.jpeg
+03-14 16:38 root         INFO     We need to load this JSON {'policynumber': '2343456', 'studentname': 'krishnan'} into Dictionary
+03-14 16:38 root         INFO     Convert first.pdf to first.jpeg and pass all information 
+{'policynumber': '2343456', 'studentname': 'krishnan'} 
+to content_persist
+03-14 16:38 root         INFO     Converting file
+03-14 16:38 root         INFO     Proceed to read file ./images/first.jpeg
+03-14 16:38 root         INFO     We need to load this JSON {'policynumber': '2343456', 'studentname': 'krishnan'} into Dictionary
+03-14 16:40 root         INFO     Convert first.pdf to first.jpeg and pass all information 
+{'policynumber': '2343456', 'studentname': 'krishnan'} 
+to content_persist
+03-14 16:40 root         INFO     Converting file
+03-14 16:40 root         INFO     Proceed to read file ./images/first.jpeg
+03-14 16:40 root         INFO     We need to load this JSON {'policynumber': '2343456', 'studentname': 'krishnan'} into Dictionary

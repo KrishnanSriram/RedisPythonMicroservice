@@ -1,0 +1,44 @@
+{
+  "production": {
+    "DEBUG": false,
+    "APPLICATION_ROOT": "/",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379,
+    "PERSISTENCE_CHANNEL": "content_persist"
+  },
+  "development": {
+    "DEBUG": true,
+    "APPLICATION_ROOT": "/",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379,
+    "PERSISTENCE_CHANNEL": "content_persist"
+  },
+  "test": {
+    "DEBUG": false,
+    "APPLICATION_ROOT": "/",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379,
+    "PERSISTENCE_CHANNEL": "content_persist"
+  },
+  "local": {
+    "DEBUG": true,
+    "APPLICATION_ROOT": "/",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379,
+    "PERSISTENCE_CHANNEL": "content_persist"
+  },
+  "uat": {
+    "DEBUG": false,
+    "APPLICATION_ROOT": "/",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379,
+    "PERSISTENCE_CHANNEL": "content_persist"
+  },
+  "qa": {
+    "DEBUG": false,
+    "APPLICATION_ROOT": "/",
+    "REDIS_HOST": "localhost",
+    "REDIS_PORT": 6379,
+    "PERSISTENCE_CHANNEL": "content_persist"
+  }
+}
